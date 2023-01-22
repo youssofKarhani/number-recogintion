@@ -1,9 +1,9 @@
 # Number Recogintion
 
-Overview
+*Overview*
 <br/>This project is a neural network based image/number recognition system built using HTML, CSS, and JavaScript. The user has an 8x10 grid to draw a number, which is then used to train the neural network. The neural network is implemented manually, with a focus on understanding the underlying matrix operations.
 
-Usage
+*Usage*
 <br/>Open the project in a web browser.
 Draw a number on the 8x10 grid using the mouse.
 Press the "Train" button to feed the drawn number into the neural network for training. Repeat this process for multiple numbers to improve the accuracy of the model.
